@@ -1,16 +1,20 @@
-## Hi there 👋
+# ---LorenaData 📊---
+### **Data Science | AI | Automation**  
 
-<!--
-**Lorenadata/Lorenadata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Bienvenido a LorenaData**, un repositorio donde comparto proyectos de **análisis de datos, inteligencia artificial y automatización**. Aquí encontrarás implementaciones de modelos de machine learning, visualización de datos y herramientas de automatización para diferentes aplicaciones.  
 
-Here are some ideas to get you started:
+## **📌 Proyectos incluidos en este repositorio**  
+✅ **Análisis Financiero con IA** → Modelos predictivos y estrategias de inversión.  
+✅ **Automatización de Chatbots** → Creación de chatbots para atención automatizada.  
+✅ **Procesamiento de Datos** → Limpieza y transformación de datasets para machine learning.  
+✅ **Visualización Interactiva** → Dashboards y gráficos para análisis exploratorio.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **🛠️ Tecnologías utilizadas**  
+📌 **Lenguajes:** Python (pandas, NumPy, scikit-learn, TensorFlow), SQL  
+📌 **Herramientas:** Jupyter Notebooks, Power BI, APIs financieras, Git  
+📌 **Automatización:** Selenium, OpenAI API  
+
+## **🚀 Cómo usar los proyectos**  
+1️⃣ Clona el repositorio:  
+   ```bash
+   git clone https://github.com/lorenadata/Lorenadata.git
