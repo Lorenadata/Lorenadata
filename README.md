@@ -1,16 +1,31 @@
-## Hi there 👋
+# Welcome, I'm Lorena 
 
-<!--
-**Lorenadata/Lorenadata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science student @ Universidad Complutense de Madrid**  
+Looking for internship in data science or machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm building my portfolio around real-world datasets and reproducible analysis in R.  
+I enjoy the full process — from messy raw data to a clean, interpretable result.
+
+- 🎓 Grado en Ciencia de los Datos Aplicada · UCM · 2023–present  
+- 🔧 Main stack: **R** (tidyverse, ggplot2, Quarto) · **Python** · **SQL** · Git  
+- 📊 Interested in: exploratory analysis, statistical modelling, machine learning  
+- 🌍 Languages: Spanish (native) · English (B2)  
+- 📬 [LinkedIn](https://www.linkedin.com/in/lorena-marcos)
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [ecv-rental-market](https://github.com/Lorenadata/ecv-rental-market) | Analysis of living conditions and income inequality using Spain's national survey microdata (ECV 2024, INE) | R, dplyr, ggplot2, Quarto |
+| [ridesharing-eda](https://github.com/Lorenadata/ridesharing-eda) | Exploratory data analysis and cleaning of a ~150k ride-sharing dataset (Uber/Lyft) | R, tidyverse, naniar, Quarto |
+| [salary-slr](https://github.com/Lorenadata/salary-slr) | Simple linear regression from scratch (manual OLS derivation + full assumption diagnostics) | R, R Markdown |
+
+---
+
+*Always open to feedback and collaboration.*
