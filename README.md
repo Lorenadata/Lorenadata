@@ -7,14 +7,14 @@ Looking for internship in data science or machine learning.
 
 ## About me
 
-I'm building my portfolio around real-world datasets and reproducible analysis in R.  
-I enjoy the full process — from messy raw data to a clean, interpretable result.
+I'm building my portfolio around real-world datasets and reproducible analysis in R and python.  
+I enjoy the full process — from messy raw data to a clean, interpretable result, and more important: machine learning and predictions in order to take the best decisions.
 
 - 🎓 Grado en Ciencia de los Datos Aplicada · UCM · 2023–present  
 - 🔧 Main stack: **R** (tidyverse, ggplot2, Quarto) · **Python** · **SQL** · Git  
 - 📊 Interested in: exploratory analysis, statistical modelling, machine learning  
 - 🌍 Languages: Spanish (native) · English (B2)  
-- 📬 [LinkedIn](https://www.linkedin.com/in/lorena-marcos)
+- 📬 [LinkedIn](www.linkedin.com/in/lorena-marcos-6516272b5)
 
 ---
 
