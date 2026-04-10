@@ -23,7 +23,7 @@ I enjoy the full process — from messy raw data to a clean, interpretable resul
 | Project | Description | Stack |
 |---|---|---|
 | [ecv-rental-market](https://github.com/Lorenadata/ecv-rental-market) | Analysis of living conditions and income inequality using Spain's national survey microdata (ECV 2024, INE) | R, dplyr, ggplot2, Quarto |
-| [ridesharing-eda](https://github.com/Lorenadata/ridesharing-eda) | Exploratory data analysis and cleaning of a ~150k ride-sharing dataset (Uber/Lyft) | R, tidyverse, naniar, Quarto |
+| [ridesharing-eda](https://github.com/Lorenadata/ncr-ride-sharing-eda) | Exploratory data analysis and cleaning of a ~150k ride-sharing dataset (Uber/Lyft) | R, tidyverse, naniar, Quarto, DataExplorer, dplyr, dbscan, patchwork, hms, class | LOF + PCA |
 | [salary-slr](https://github.com/Lorenadata/salary-slr) | Simple linear regression from scratch (manual OLS derivation + full assumption diagnostics) | R, R Markdown |
 
 ---
