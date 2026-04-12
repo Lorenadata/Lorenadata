@@ -7,7 +7,7 @@ Building a portfolio around real-world datasets, reproducible analysis and machi
 
 ## About me
 
-I work across the full data pipeline — from raw, messy data to clean analysis and 
+I work across the full data pipeline: from raw, messy data to clean analysis and 
 predictive models. My focus is on making data useful for real decisions.
 
 - Grado en Ciencia de los Datos Aplicada · UCM · 2023–present
