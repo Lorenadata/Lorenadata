@@ -1,10 +1,9 @@
 # Hi, I'm Lorena 👋
 
-**Applied Data Science student at Universidad Complutense de Madrid.** I turn messy, real-world data into analysis people can act on, and I also build the software that produces that data.
+**Data science student building ML & AI products, looking for an AI/ML engineering role where I can contribute to production systems**.
 
 🌃 **[Walk through my portfolio → lorenamarcos.dev](https://lorenamarcos.dev)**: a rainy neon street where every shop is one of my projects, working.
 
-🎯 **Looking for a Data Science / Data Analytics internship from February 2027** (Madrid or remote).
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lorenamarcos.dev-2dd4bf)](https://lorenamarcos.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-marcos-6516272b5/)
